@@ -123,6 +123,10 @@ function prompt_char() {
 PS1=$'$(user_host_path_string) $(time_prompt_string)
 $(vc_prompt_string)$(git_prompt_string)$(prompt_char) '
 
+# With a hamburger!
+#PS1=$'$(user_host_path_string) $(time_prompt_string)
+#$(vc_prompt_string)$(git_prompt_string)🍔 $(prompt_char) '
+
 #RPS1='$(battery_charge)'
 #RPS1='$(date_time_prompt_string)'
 
