@@ -37,4 +37,4 @@ plugins=(git brew ruby rbenv rsync thor vagrant vi-mode autojump history-substri
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=/usr/local/heroku/bin:~/bin:/Users/eric/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin
+export PATH=/usr/local/heroku/bin:~/bin:~/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin
